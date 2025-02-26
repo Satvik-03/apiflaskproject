@@ -2,3 +2,6 @@ flask
 flask-restful 
 yfinance 
 pymongo
+dnspython
+bcrypt 
+pyjwt
